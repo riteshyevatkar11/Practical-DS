@@ -68,7 +68,6 @@
     t = s;
     while(t -> next != s){
     q = t;
-    DS PRACTICAL 07
     t = t-> next;
     }
     q -> next = s;
